@@ -4,8 +4,8 @@ storage: ./storage
 # a list of users
 users:
   admin:
-    # crypto.createHash('sha1').update(pass).digest('hex')
-    password: c8ef5e28ccce09936c175813b7f697a751e18bc8
+    # crypto.createHash('sha1').update(password).digest('hex')
+    password: 5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8
 
 # a list of other known repositories we can talk to
 uplinks:
